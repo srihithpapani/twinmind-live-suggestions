@@ -10,7 +10,7 @@ Live demo: https://69ebb7540f78a66c33da4b6b--extraordinary-klepon-a4ae02.netlify
 ## Stack
 - Vanilla HTML, CSS, JavaScript — single file
 - Groq Whisper Large V3 for transcription
-- Llama 4 Maverick for suggestions and chat
+- Llama 3.3 70B Versatile for suggestions and chat
 - Netlify for hosting
 
 ## Prompt Decisions
