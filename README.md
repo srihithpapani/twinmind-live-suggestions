@@ -1,6 +1,6 @@
 # TwinMind Live Suggestions Copilot
 
-Live demo: https://69ebb7540f78a66c33da4b6b--extraordinary-klepon-a4ae02.netlify.app/
+Live demo: https://fascinating-tartufo-4735c0.netlify.app
 
 ## Setup
 1. Open the deployed URL in Chrome
